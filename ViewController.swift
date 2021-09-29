@@ -29,6 +29,7 @@ extension ViewController {
         let okAction = UIAlertAction(title: "OK", style: .default)
         allert.addAction(okAction)
         present(allert, animated: true)
+        let test = "test"
         }
     
     
